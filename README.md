@@ -6,7 +6,7 @@ Requirements:
 
 Based on the same test link: https://www.saucedemo.com/,  please create a test structure that will have the following tests: 
 
-1. Login with valid data 
+1.Login with valid data 
 
 2.Login with invalid data 
 
@@ -20,7 +20,7 @@ Based on the same test link: https://www.saucedemo.com/,  please create a test s
 
 7.Create a booking for 2 products (2 product)
 
-8. Filter products based on all options.
+8.Filter products based on all options.
 
 9.Log out
 
